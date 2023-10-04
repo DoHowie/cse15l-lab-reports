@@ -10,7 +10,7 @@ meaning if we just type "cd" into the command line, it will do nothing and stays
 an error because there is nothing to change for the directory, you are in the home directory which is like the base
 of the directory. However if we are in other directory, then using the command cd with no arguments will return back
 to the home directory. For instance, after we change directory into lecture1, we type cd to get back to the home
-directory.
+directory. Same with going to other directories (messages directory for example).
 ```
 ```
 2. Share an example of using the command with a path to a directory as an argument.
