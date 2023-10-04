@@ -49,7 +49,8 @@ to this problem because the only elements in these files that the terminal can "
 ls stands for list by the way.
 ```
 **for the command cat**
-![Image](cat_examples.png)
+![Image](cat_examples1.png)
+![Image](cat_examples2.png)
 ```
 1. Share an example of using the command with no arguments.
 ```
