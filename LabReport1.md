@@ -1,2 +1,2 @@
-## Lab Report 1
+hello world
 ![Image](cute.jpg)
