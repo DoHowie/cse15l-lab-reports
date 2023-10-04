@@ -48,4 +48,14 @@ which all of them are files, then it will just repeat the name of the file. The 
 to this problem because the only elements in these files that the terminal can "list" is the file itself.
 ls stands for list by the way.
 ```
-
+**for the command cat**
+![Image](cat_examples.png)
+```
+1. Share an example of using the command with no arguments.
+```
+```
+2. Share an example of using the command with a path to a directory as an argument.
+```
+```
+3. Share an Example of using the command with a path to a file as an argument.
+```
