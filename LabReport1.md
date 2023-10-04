@@ -19,5 +19,9 @@ which means I'm trying to change my directory to this java file called Hello, th
 "bash: cd: Hello.java: Not a directory" because Hello.java is not a directory, so cd, which stands for change
 directory, won't work.
 ```
+**for the command ls**
+![Image](ls examples.png)
 
+```
+```
 
