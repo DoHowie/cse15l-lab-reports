@@ -53,10 +53,26 @@ ls stands for list by the way.
 ![Image](cat_examples2.png)
 ```
 1. Share an example of using the command with no arguments.
+The starting directory of the first picture is the messages directory which contains lot of txt files. If I
+just use cat command with no arguments, it will wait for an user input, so that's why in the picture after
+the cat command there are couple newlines, it's the terminal waiting for the user to enter something. The
+cat command will simply repeat what you have input in the user input. The cat command without arguments
+is not an error.
 ```
 ```
 2. Share an example of using the command with a path to a directory as an argument.
+For presenting this example, look at picture one the 7th line that contains code (I don't really know how
+much whitespace/ newlines there are). The starting directory of this example is the home directory. By
+using cat command onto the lecture1 directory, being "cat lecture1". the terminal returns an message,
+"cat: lecture1: Is a directory". The cat command here simply prints out the directory name that it
+read. And this is not an error.
 ```
 ```
 3. Share an Example of using the command with a path to a file as an argument.
+Please refer to both picture 1 and picture 2 for this example. For picture 1, the starting directory of
+the example is the message directory, which contains a lot of txt files. By running "cat en-us.txt" for
+example, it will print out the content inside en-us.txt, being "Hello World!".
+However for picture 2, the starting directory is the lecture1 directory, which contains other types of
+files, by entering "cat Hello.java", it will also just prints out the code inside Hello.java.
+So for files that contain codes inside, the cat command will prints the code for the user to preview.
 ```
