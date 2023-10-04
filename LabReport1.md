@@ -1,5 +1,5 @@
-
 **for the command cd**
+
 ![Image](cd_examples.png)
 
 ```
