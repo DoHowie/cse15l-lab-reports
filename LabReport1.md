@@ -1,7 +1,6 @@
 
 **for the command cd**
-![Image](cdExamples.png)
-
+![Image](cd_examples.png)
 ```
 1. Share an example of using the command with no arguments.
 In the screenshot, the working directory starts at home. If we use the command cd with no arguments, meaning if we just type "cd" into the command line, it will do nothing and stays at the home directory, however if we are in other directory, then using the command cd with no arguments will return back to the previous directory. For instance, after we change directory into lecture1, we type cd to get back to the home directory.
